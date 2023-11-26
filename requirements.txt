@@ -4,3 +4,4 @@ python-dotenv
 streamlit
 faiss-cpu
 streamlit_extras 
+openai == 0.28.1
